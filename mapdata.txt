@@ -1,4 +1,4 @@
-<mapdata.txt>
+<index.html>
 <html>
 <head>
     <title>Tarlac Tracking Map</title>
